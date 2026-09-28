@@ -36,30 +36,6 @@ The model scripts:
 
 Location: model/
 
-## Repository structure
-
-SCTRiX/
-
-├── feature_engineering/
-
-│   ├── Feature_engineering_loopseed.py
-
-│   └── Feature_engineering_test.py
-
-│
-
-├── model/
-
-│   ├── Model_loopseed.py
-
-│   ├── Model_lofo_loopseed.py
-
-│   └── Model_test.py
-
-│
-
-└── README.md
-
 
 ## Data availability
 

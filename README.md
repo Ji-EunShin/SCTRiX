@@ -78,8 +78,7 @@ Python packages required for running the scripts include:
 ## Citation
 
 If you use this code, please cite:
-
-[Manuscript information will be added after publication]
+"Local and remote drivers of Seychelles-Chagos Thermocline Ridge predictability revealed by machine learning"
 
 ## License
 

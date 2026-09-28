@@ -1,0 +1,15 @@
+numpy
+pandas
+xarray
+netCDF4
+scipy
+scikit-learn
+xgboost
+eofs
+matplotlib
+seaborn
+cartopy
+joblib
+statsmodels
+tqdm
+pyarrow
